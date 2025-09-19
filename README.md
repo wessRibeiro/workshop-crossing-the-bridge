@@ -11,7 +11,7 @@
 > A cada etapa, um conjunto de _workflows_ guia sua jornada — desde a preparação do Codespace até a comparação de respostas entre diferentes modelos e a conclusão da história.
 
 > [!NOTE]
-> Estado atual: <!--WORKSHOP_STATUS-->🎭 Resumo encenado disponível! Feche a issue para concluir o workshop.<!--END_WORKSHOP_STATUS-->
+> Estado atual: <!--WORKSHOP_STATUS-->🌟 Travessia concluída! Revise os comentários finais ou copie o repositório novamente para recomeçar.<!--END_WORKSHOP_STATUS-->
 
 ---
 

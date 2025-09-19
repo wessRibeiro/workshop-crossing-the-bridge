@@ -11,7 +11,7 @@
 > A cada etapa, um conjunto de _workflows_ guia sua jornada — desde a preparação do Codespace até a comparação de respostas entre diferentes modelos e a conclusão da história.
 
 > [!NOTE]
-> Estado atual: <!--WORKSHOP_STATUS-->🎯 Dois oráculos consultados! Execute o Step 4 nas Actions para gerar o resumo encenado.<!--END_WORKSHOP_STATUS-->
+> Estado atual: <!--WORKSHOP_STATUS-->🎭 Resumo encenado disponível! Feche a issue para concluir o workshop.<!--END_WORKSHOP_STATUS-->
 
 ---
 
